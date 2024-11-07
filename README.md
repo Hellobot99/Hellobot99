@@ -43,6 +43,7 @@
 <br>
 <br>
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api?username=Hellobot99&show_icons=true&theme=radical" alt="Hellobot99's GitHub stats" />
 </div>
 
