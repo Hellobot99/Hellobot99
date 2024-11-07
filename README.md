@@ -34,14 +34,14 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:ktj4060@gmail.com">
-    <img
-      src="https://img.shields.io/badge/ktj4060@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/ktj4060@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:ktj4060@gnaver.com">
-    <img
-      src="https://img.shields.io/badge/ktj4060@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/ktj4060@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
+
+
 
 
 
