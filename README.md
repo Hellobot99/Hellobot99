@@ -7,9 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hellobot99's%20Github&fontSize=60&fontColor=00ffea&fontAlign=50&fontAlignY=40" />
 
 
-
-계명대학교 재학 중
-
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
