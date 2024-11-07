@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!--타이틀 부분-->
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Welcome%20to&fontAlign=58&fontSize=80&theme=radical)
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Hellobot99's%20Github&fontAlign=58&fontSize=40&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Welcome%20to&fontAlign=50&fontSize=80&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Hellobot99's%20Github&fontAlign=50&fontSize=40&theme=radical)
 <div align="center">
 
 </div>
