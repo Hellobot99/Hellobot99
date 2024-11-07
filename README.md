@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!--타이틀 부분-->
 <div align="center">
-  <img src="Welcome" />
+  "Welcome"
 </div>
 
 <!--내용 부분-->
