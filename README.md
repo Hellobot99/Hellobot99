@@ -1,13 +1,16 @@
 
 <div align="center">
-  <!-- 텍스트 배경을 없애고 글자만 보이게, 두 줄로 나누어서 예쁜 색상 적용 -->
+
+  
+
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to&fontSize=70&fontColor=00ffea&fontAlign=50&fontAlignY=40" />
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hellobot99's%20Github&fontSize=60&fontColor=00ffea&fontAlign=50&fontAlignY=40" />
+
+
+
+계명대학교 재학 중
+
 </div>
-
-
-
-
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
