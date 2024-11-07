@@ -1,7 +1,9 @@
 ## Hi there 👋
 <!--타이틀 부분-->
+![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Welcome%20to&fontAlign=58&fontSize=80&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Hellobot99's%20Github&fontAlign=58&fontSize=40&theme=radical)
 <div align="center">
-  ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+
 </div>
 
 <!--내용 부분-->
