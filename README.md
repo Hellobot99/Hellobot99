@@ -1,7 +1,5 @@
 ## Hi there 👋
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome&)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontSize=40)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hellobot99/Hellobot99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
