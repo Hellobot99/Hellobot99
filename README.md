@@ -1,5 +1,5 @@
 ## Hi there 👋
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&AlignY=50&=radical)
 <!--
 **Hellobot99/Hellobot99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
