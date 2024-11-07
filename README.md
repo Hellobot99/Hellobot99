@@ -43,8 +43,20 @@
 <br>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&theme=radical)
+
+<a href="https://solved.ac/ktj4060">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=ktj4060" alt="Solved.ac Profile" />
+  </a>
+ <br>  
+<br>
+ <br>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&theme=radical" alt="Top Langs" />
+  <br>
+   <br>
+    <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Hellobot99&show_icons=true&theme=radical" alt="Hellobot99's GitHub stats" />
+ 
+  
 </div>
 
 
