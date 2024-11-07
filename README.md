@@ -1,12 +1,14 @@
 
-<!--타이틀 부분-->
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Welcome%20to&fontAlign=50&fontSize=80&theme=radical)
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=%20Hellobot99's%20Github&fontAlign=50&fontSize=40&theme=radical)
 <div align="center">
-
+  <!-- 텍스트 배경을 없애고 글자만 보이게, 두 줄로 나누어서 예쁜 색상 적용 -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to&fontSize=70&fontColor=00ffea&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hellobot99's%20Github&fontSize=60&fontColor=00ffea&fontAlign=50&fontAlignY=40" />
 </div>
 
-<!--내용 부분-->
+
+
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC" />&nbsp
