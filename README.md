@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<a href="https://solved.ac/ktj4060">
+<a href="https://solved.ac/profile/ktj4060">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=ktj4060" alt="Solved.ac Profile" />
   </a>
  <br>  
