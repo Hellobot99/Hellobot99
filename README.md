@@ -13,9 +13,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" />&nbsp;
-</div>  
-<br>
-<div align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp;
 </div>
 
@@ -25,6 +22,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=white" />&nbsp;  
   <img src="https://img.shields.io/badge/Data%20Structure-20232a.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />&nbsp;
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Computer%20Architecture-20232a.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />&nbsp;
 
 </div>
