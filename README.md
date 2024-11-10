@@ -21,7 +21,8 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=white" />&nbsp;  
-  <img src="https://img.shields.io/badge/Studying-자료구조-007396.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Structure-20232a.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />&nbsp;
+
 
 </div>
 
