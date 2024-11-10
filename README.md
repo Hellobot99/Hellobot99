@@ -51,9 +51,9 @@
 <br>
 <br>
 
-<a href="https://solved.ac/profile/ktj4060">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=ktj4060" alt="Solved.ac Profile" />
+    
   </a>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ktj4060)](https://solved.ac/ktj4060"/>
  <br>  
 <br>
  <br>   
