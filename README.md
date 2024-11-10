@@ -20,6 +20,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+<img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=white" />&nbsp;
+
   
 </div>
 
