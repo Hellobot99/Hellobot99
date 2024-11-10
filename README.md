@@ -52,7 +52,7 @@
  <br>  
 <br>
  <br>   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&theme=radical" alt="Top Langs" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&layout=compact)
   <br>
    <br>
     <br>
