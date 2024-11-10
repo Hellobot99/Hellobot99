@@ -54,7 +54,7 @@
     
   </a>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ktj4060" alt="solved.ac Profile Badge" />
-
+<img src="http://mazandi.herokuapp.com/api?handle=ktj4060&theme=dark"/>
  <br>  
 <br>
  <br>   
