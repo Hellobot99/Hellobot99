@@ -53,7 +53,7 @@
 
     
   </a>
- ![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktj4060)
+<img src="(http://mazassumnida.wtf/api/v2/generate_badge?boj=ktj4060)" />
  <br>  
 <br>
  <br>   
