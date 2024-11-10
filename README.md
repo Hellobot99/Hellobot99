@@ -12,17 +12,15 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC" />&nbsp
-  <img src="https://img.shields.io/badge/C++-F7DF1E.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
-  <img src="https://img.shields.io/badge/JAVA-E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp;
 </div>
 
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=white" />&nbsp;
-
-  
+  <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=white" />&nbsp;  
 </div>
 
 <br>
