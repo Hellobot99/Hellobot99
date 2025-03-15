@@ -58,7 +58,7 @@
  <br>  
 <br>
  <br>   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&layout=compact&theme=radical&hide=ASP.NET" />
   <br>
    <br>
     <br>
