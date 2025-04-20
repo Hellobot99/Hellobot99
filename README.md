@@ -20,11 +20,14 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=Unity&logoColor=white" />&nbsp;  
-  <img src="https://img.shields.io/badge/Data%20Structure-20232a.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Communication-20232a.svg?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Algorithm-20232a.svg?style=for-the-badge&logo=codeforces&logoColor=white" />&nbsp;
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Computer%20Architecture-20232a.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" />&nbsp;
+<div align="center"> 
+  <img src="https://img.shields.io/badge/System%20Programming-20232a.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Network%20Programming-20232a.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />&nbsp;
+</div>
+
 
 </div>
 
