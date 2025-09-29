@@ -15,12 +15,14 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Data%20Communication-20232a.svg?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Algorithm-20232a.svg?style=for-the-badge&logo=codeforces&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/IT기술경영개론-F6BFBC?style=for-the-badge&logo=Trello&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/운영체제-F6BFBC?style=for-the-badge&logo=Linux&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/컴퓨터망-90EE90?style=for-the-badge&logo=Cloudflare&logoColor=black" />&nbsp;
 </div>
-<div align="center"> 
-  <img src="https://img.shields.io/badge/System%20Programming-20232a.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Network%20Programming-20232a.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />&nbsp;
+<div align="center"> 
+  <img src="https://img.shields.io/badge/데이터베이스-B0E0E6?style=for-the-badge&logo=MySQL&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/소프트웨어%20특강-FAFAD2?style=for-the-badge&logo=visualstudiocode&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/서양의역사와문화-FAFAD2?style=for-the-badge&logo=Read-the-Docs&logoColor=black" />&nbsp;
 </div>
 
 
