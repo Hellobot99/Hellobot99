@@ -15,14 +15,10 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Intro%20to%20IT%20Management-F6BFBC?style=for-the-badge&logo=Trello&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Operating%20Systems-F6BFBC?style=for-the-badge&logo=Linux&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Computer%20Networks-90EE90?style=for-the-badge&logo=Cloudflare&logoColor=black" />&nbsp;
-</div>
-<div align="center"> 
   <img src="https://img.shields.io/badge/Database-B0E0E6?style=for-the-badge&logo=MySQL&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Special%20Lectures%20on%20SW-FAFAD2?style=for-the-badge&logo=visualstudiocode&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Western%20History%20&%20Culture-FAFAD2?style=for-the-badge&logo=Read-the-Docs&logoColor=black" />&nbsp;
+
 </div>
 
 
