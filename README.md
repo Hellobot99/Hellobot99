@@ -1,7 +1,7 @@
 
 <div align="center">
     <h3 align="center">
-        Welcome! I am a Computer Science student at KNU.
+        Welcome! I am a student at KNU, majoring in Computer Science.
     </h3>
     <h3 align="center">
         I'm passionate about building reliable game server infrastructure.
