@@ -8,6 +8,9 @@
     </h3>
 </div>
 
+<br>
+<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC" />&nbsp;
@@ -18,6 +21,7 @@
 </div>
 
 <br>
+<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -26,11 +30,14 @@
   <img src="https://img.shields.io/badge/Database-B0E0E6?style=for-the-badge&logo=MySQL&logoColor=black" />&nbsp;
 
 </div>
-
+<br>
 
 </div>
 
 
+<br>
+<br>
+<br>
 <br>
 
 
@@ -39,8 +46,3 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ktj4060" alt="solved.ac Profile Badge" />
 <img src="http://mazandi.herokuapp.com/api?handle=ktj4060&theme=dark"/>
  <br>  
-<br>
- <br>   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellobot99&layout=compact&theme=radical&hide=ASP.NET" />
- <br>   
-<img src="https://github-readme-stats.vercel.app/api?username=Hellobot99&show_icons=true&theme=radical" alt="Hellobot99's GitHub stats" />
