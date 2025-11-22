@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Unity-20232A.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
 </div>
 
 <br>
