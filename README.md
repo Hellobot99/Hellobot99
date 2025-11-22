@@ -1,10 +1,7 @@
 
 <div align="center">
     <h3 align="center">
-        Welcome! I am a student at KNU, majoring in Computer Science.
-    </h3>
-    <h3 align="center">
-        I'm passionate about building reliable game server infrastructure.
+        CS Student @ KNU | Dive deep into Game Server Engineering.
     </h3>
 </div>
 
