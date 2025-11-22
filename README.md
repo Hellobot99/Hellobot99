@@ -1,11 +1,10 @@
-
+<br>
 <div align="center">
     <h3 align="center">
         CS Student @ KNU | Dive deep into Game Server Engineering.
     </h3>
 </div>
 
-<br>
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
