@@ -17,8 +17,8 @@ I enjoy tackling concurrency challenges and optimizing server architecture.
 ### My Tech Stack
 
 - **Core:** C++, C, Java
-- **Server:** IOCP, Oracle/MySQL
-- **Client:** Unity (C#)
+- **Server:** IOCP, Boost.asio, Oracle, MySQL, Redis
+- **Client:** Unity
 
 Currently, I'm focused on building a **Server for a Cyberpunk-themed game**.
 
