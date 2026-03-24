@@ -10,8 +10,6 @@ Hey there!
 
 I’m a **CS Student at KNU** based in South Korea.
 I design and build high-performance game servers.
-I enjoy tackling concurrency challenges and optimizing server architecture.
-
 <br/>
 
 ### My Tech Stack
