@@ -1,6 +1,6 @@
 <div align="center">
     <h3>
-        CS Student @ KNU | Dive deep into Game Server Engineering.
+        CS Student @ KNU
     </h3>
 </div>
 
@@ -9,7 +9,6 @@
 Hey there!
 
 I’m a **CS Student at KNU** based in South Korea.
-I design and build high-performance game servers.
 <br/>
 
 ### My Tech Stack
