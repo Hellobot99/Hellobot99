@@ -17,8 +17,6 @@ I’m a **CS Student at KNU** based in South Korea.
 - **Server:** IOCP, Boost.asio, Oracle, MySQL, Redis
 - **Client:** Unity
 
-Currently, I'm focused on building a **Server for a Cyberpunk-themed game**.
-
 <br/>
 
 ### Personal TMI
